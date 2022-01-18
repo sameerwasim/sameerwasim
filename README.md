@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sameerwasim
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning MERN Stack
+- 👀 I’m interested in ...
+- 🌱 I’m currently try to learn new languages.
 - 💞️ I’m looking to collaborate on something related to chess
 - 📫 How to reach me? email me @ sameerwaseem01@gmail.com
 
