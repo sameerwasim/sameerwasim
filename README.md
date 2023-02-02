@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sameer</h1>
 <h3 align="center">A passionate full-stack developer from Pakistan</h3>
 
-- 👯 I’m looking to collaborate on **Chess Projects**
+- 🤝 I’m looking to collaborate on **Chess Projects**
 
 - 📫 How to reach me **sameerwaseem01@gmail.com**
 
