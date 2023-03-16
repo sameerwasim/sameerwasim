@@ -19,6 +19,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to integrate JazzCash in NodeJS using Jazzcash Checkout](https://sameerwasim.github.io/blog/how-to-integrate-jazzcash-in-node-using-jazzcash-checkout)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
