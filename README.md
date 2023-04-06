@@ -19,6 +19,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Task scheduling within a distributed system using Agenda.js](https://sameerwasim.github.io/blog/task-scheduling-within-a-distributed-system-using-agendajs)
 - [Create A Dynamic Sitemap With PHP](https://sameerwasim.github.io/blog/create-a-dynamic-xml-sitemap-with-php)
 - [How to integrate JazzCash in NodeJS using Jazzcash Checkout](https://sameerwasim.github.io/blog/how-to-integrate-jazzcash-in-node-using-jazzcash-checkout)
 <!-- BLOG-POST-LIST:END -->
