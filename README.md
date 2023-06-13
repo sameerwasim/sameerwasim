@@ -19,6 +19,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT: How It Improved My Skills While Tempting Me to Embrace Laziness as a Developer](https://sameerwasim.github.io/blog/how-It-improved-my-skills-while-tempting-me-to-embrace-laziness-as-a-developer)
 - [Task scheduling Problems within distributed system](https://sameerwasim.github.io/blog/task-scheduling-problems-within-distributed-system)
 - [Create A Dynamic Sitemap With PHP](https://sameerwasim.github.io/blog/create-a-dynamic-xml-sitemap-with-php)
 - [How to integrate JazzCash in NodeJS using Jazzcash Checkout](https://sameerwasim.github.io/blog/how-to-integrate-jazzcash-in-node-using-jazzcash-checkout)
