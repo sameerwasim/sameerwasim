@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sameer</h1>
 <h3 align="center">Software Engineer from Pakistan, who loves to design and develop weird stuff.</h3>
 
-- 🔭 I’m currently working on [inPKR](https://inpkr.com)
+- 🔭 I’m currently working on **OpenAI**
 
 - 🌱 I’m currently learning **Project Management**
 
-- 👯 I’m looking to collaborate on **something chess related**
+- 👯 I’m looking to collaborate on **something NLP related**
 
-- 👨‍💻 All of my projects are available at [https://sameerwasim.github.io/projects](https://sameerwasim.github.io/projects)
+- 👨‍💻 Most of my projects are available at [https://sameerwasim.github.io/projects](https://sameerwasim.github.io/projects)
 
-- 📝 I regularly write articles on [https://sameerwasim.github.io/blog](https://sameerwasim.github.io/blog)
+- 📝 I sometimes write articles on [https://sameerwasim.github.io/blog](https://sameerwasim.github.io/blog)
 
-- 💬 Ask me about **React, PHP, and MySQL.**
+- 💬 Ask me about **JavaScript, PHP and Python.**
 
 - 📫 How to reach me **sameerwaseem01@gmail.com**
 
