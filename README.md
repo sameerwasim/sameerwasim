@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Rise of LLMs and Chatbots - A Developer&#39;s Survival Guide](https://sameerwasim.github.io/blog/the-rise-of-llms-and-chatbots-a-developers-survival-guide)
 - [Integrate a chatbot in your website using OpenAI](https://sameerwasim.github.io/blog/integrate-a-chatbot-using-openai)
 - [ChatGPT: How It Improved My Skills While Tempting Me to Embrace Laziness as a Developer](https://sameerwasim.github.io/blog/how-It-improved-my-skills-while-tempting-me-to-embrace-laziness-as-a-developer)
 - [Task scheduling Problems within distributed system](https://sameerwasim.github.io/blog/task-scheduling-problems-within-distributed-system)
 - [Create A Dynamic Sitemap With PHP](https://sameerwasim.github.io/blog/create-a-dynamic-xml-sitemap-with-php)
-- [How to integrate JazzCash in NodeJS using Jazzcash Checkout](https://sameerwasim.github.io/blog/how-to-integrate-jazzcash-in-node-using-jazzcash-checkout)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
